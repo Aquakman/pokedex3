@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		336642541D6CFE89003BE304 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 336642531D6CFE89003BE304 /* pokemon.csv */; };
 		33B897D31D6CF74E003C331F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B897D21D6CF74E003C331F /* AppDelegate.swift */; };
 		33B897D51D6CF74E003C331F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33B897D41D6CF74E003C331F /* ViewController.swift */; };
 		33B897D81D6CF74E003C331F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33B897D61D6CF74E003C331F /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		336642531D6CFE89003BE304 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 		33B897CF1D6CF74E003C331F /* pokedex3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pokedex3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33B897D21D6CF74E003C331F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33B897D41D6CF74E003C331F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				33B897D41D6CF74E003C331F /* ViewController.swift */,
 				33B897D61D6CF74E003C331F /* Main.storyboard */,
 				33B897D91D6CF74E003C331F /* Assets.xcassets */,
+				336642531D6CFE89003BE304 /* pokemon.csv */,
 				33B897DB1D6CF74E003C331F /* LaunchScreen.storyboard */,
 				33B897DE1D6CF74E003C331F /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				33B897DD1D6CF74E003C331F /* LaunchScreen.storyboard in Resources */,
 				33B897DA1D6CF74E003C331F /* Assets.xcassets in Resources */,
+				336642541D6CFE89003BE304 /* pokemon.csv in Resources */,
 				33B897D81D6CF74E003C331F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -297,6 +301,7 @@
 				33B897E31D6CF74E003C331F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
